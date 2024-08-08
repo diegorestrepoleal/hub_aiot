@@ -1,12 +1,11 @@
-Criterio,Weight
-Alumbrado publico,0.1064733000248851
-Area o zona,0.1796103697975761
-Direccion del viento,0.07691302473887587
-Distancia al gateway,0.05156241974480694
-Fuente de exposicion,0.07289476084613365
-Linea de vista,0.07885853981311158
-Nodos por gateway,0.102956903656494
-Proximidad a la carretera,0.1105764774815033
-Proximidad a la mina,0.08927062370127178
-Proximidad a la via ferrea,0.07268461097779617
-Velocidad del viento,0.05819896921754544
+,Criterio,Weight
+1,Alumbrado publico,0.114214
+0,Area o zona,0.2172
+6,Direccion del viento,0.082208
+9,Distancia al gateway,0.054962
+4,Fuente de exposicion,0.08875
+5,Linea de vista,0.085035
+3,Nodos por gateway,0.105916
+2,Proximidad a la mina,0.106534
+7,Proximidad a la via ferrea,0.080674
+8,Velocidad del viento,0.064507
